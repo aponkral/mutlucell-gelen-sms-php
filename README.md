@@ -15,4 +15,4 @@ $sifre = "**********";
 ?>
 ```
 
-[APONKRAL Blog](https://aponkral.net/)
+[Mutlucell Gelen SMS yazılımı](https://github.com/aponkral/mutlucell-gelen-sms-php) PHP dili ve html, css ve js gibi betik diller ile yazılmıştır. [APONKRAL Blog](https://aponkral.net/) tarafından yazılmıştır. [Mutlucell](https://www.mutlucell.com.tr/) Gelen SMS yazılımı tamamen açık kaynak kodlu olarak piyasaya sürülmüştür.
