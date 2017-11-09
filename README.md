@@ -17,7 +17,7 @@ $sifre = "**********";
 
 Mutlucell Gelen SMS PHP yazılımının ekran görüntüsünü:
 
-![alt text](https://raw.githubusercontent.com/aponkral/mutlucell-gelen-sms-php/master/static/v1.1-screenshot.png "Mutlucell Gelen SMS Screenshot")
+![alt text](https://raw.githubusercontent.com/aponkral/mutlucell-gelen-sms-php/master/static/img/v1.1-screenshot.png "Mutlucell Gelen SMS Screenshot")
 
 Mutlucell Gelen SMS PHP yazılımının desteklediği diller: EN(English), TR(Türkçe).
 
